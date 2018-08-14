@@ -21,7 +21,7 @@
     {
       "id": 4,
       "name": "Buttercup",
-      "isGoodDog": false,
+      "isGoodDog": true,
       "image": "https://www.petinsurance.com/images/VSSimages/consumer/v5/banner_dog_insurance.jpg"
     },
     {
